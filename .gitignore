@@ -1,0 +1,17 @@
+lib/
+
+*.bundle.*
+*.tmp
+*.temp
+
+dist/
+build/
+*.o
+*.class
+
+.vscode/
+*.code-workspace
+
+Scripts/__pycache__/
+*.cfg
+*.so
